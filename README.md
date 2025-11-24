@@ -19,5 +19,6 @@
  <summary><b>DIVISIÓN</b></summary>
  
  #### DIAGRAMA DE FLUJO
+ ![Diagrama](IMAGENES/Diag_fluj_div.png)
  
 </details>
