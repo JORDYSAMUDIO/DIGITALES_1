@@ -1,7 +1,4 @@
-
-
-
-# MULTIPLICACIÓN
+# MULTIPLICACION
  
 ## DIAGRAMA DE FLUJO
 ![Diagrama](IMAGENES/Diag_flujo_Mult.png)
@@ -11,6 +8,3 @@
 ![Diagrama](IMAGENES/Diag_Est_Mult.png)
 ## SIMULACIÓN
 ![Diagrama](IMAGENES/SIM_Mult.png)
-
-
-
