@@ -22,6 +22,6 @@
  ![Diagrama](IMAGENES/Diag_fluj_div.png)
 
   #### DIAGRAMA DE ESTADOS
- ![Diagrama](IMAGENES/Diag_fluj_div.png)
+ ![Diagrama](IMAGENES/Diag_est_div.png)
  
 </details>
