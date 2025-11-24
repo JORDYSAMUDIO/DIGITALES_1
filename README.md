@@ -2,9 +2,9 @@
 # CALCULADORA
 
 <details>
-  <summary>MULTIPLICACIÓN</summary>
+  <summary>**MULTIPLICACIÓN**</summary>
   
-## DIAGRAMA DE FLUJO
+ ##### DIAGRAMA DE FLUJO
 ![Diagrama](Diag_flujo_Mult.png)
 
 ## CAMINO DE DATOS
