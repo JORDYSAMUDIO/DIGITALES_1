@@ -5,3 +5,6 @@
 
 ## DIAGRAMA DE ESTADOS
 ![Diagrama](IMAGENES/Diag_est_div.png)
+
+## CAMINO DEDATOS
+![Diagrama](IMAGENES/Cam_dat_div.png)
