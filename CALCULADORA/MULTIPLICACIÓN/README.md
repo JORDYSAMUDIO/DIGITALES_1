@@ -1,18 +1,16 @@
 
-# CALCULADORA
 
-<details>
- <summary><b>MULTIPLICACIÓN</b></summary>
+
+# MULTIPLICACIÓN
  
-#### DIAGRAMA DE FLUJO
+## DIAGRAMA DE FLUJO
 ![Diagrama](IMAGENES/Diag_flujo_Mult.png)
-#### CAMINO DE DATOS
+## CAMINO DE DATOS
 ![Diagrama](IMAGENES/Cam_Dat_Mult.png)
-#### DIAGRAMA DE ESTADOS
+## DIAGRAMA DE ESTADOS
 ![Diagrama](IMAGENES/Diag_Est_Mult.png)
-#### SIMULACIÓN
+## SIMULACIÓN
 ![Diagrama](IMAGENES/SIM_Mult.png)
-</details>
 
 
 
