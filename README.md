@@ -13,3 +13,8 @@
 #### SIMULACIÓN
 ![Diagrama](IMAGENES/SIM_Mult.png)
 </details>
+
+
+<details>
+ <summary><b>DIVISIÓN</b></summary>
+</details>
