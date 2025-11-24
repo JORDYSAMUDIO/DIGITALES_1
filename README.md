@@ -1,0 +1,1 @@
+En este repositorio se encuentra la documentación de el proyecto final y el de la calculadora de numeros binarios. Cada carpeta contiene los respectivos diagramas de flujo , de caminos de datos y de estados para cada uno de 
