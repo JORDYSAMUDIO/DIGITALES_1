@@ -13,6 +13,9 @@ En primera instancia creamos las tablas de verdad correspondientes y la estructu
 ---
 ## DISEÑO HDL
 ---
+## RTL
+![RTL]()
+---
 ## SIMULACIÓN
 ---
 ## IMPLEMENTACIÓN 
