@@ -4,7 +4,7 @@ En esta práctica de laboratorio número 3 se implementará un contador de segun
 En primera instancia creamos las tablas de verdad correspondientes y la estructura de compuertas logicas basado en estas. Compararemos resultados con el diagrama RTL generado a partir del MAKEFILE. Por ultimo se sintetiza y se generan los archivos correspondientes para laimplementacion en la FPGA.
 
 ## 1.  COMPORTAMIENTO
-### - DIAGRAMA DE FLUJO
+### * DIAGRAMA DE FLUJO
 ### - TABLAS DE VERDAD
 ---
 ## ESTRUCTURA
