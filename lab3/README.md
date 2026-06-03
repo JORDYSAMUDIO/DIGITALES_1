@@ -22,7 +22,7 @@ En primera instancia creamos las tablas de verdad correspondientes y la estructu
   ![RTL](RTL7seg.png)
   
 </details>
-![RTL](RTL7seg.png)
+
 ---
 ## SIMULACIÓN
 ---
