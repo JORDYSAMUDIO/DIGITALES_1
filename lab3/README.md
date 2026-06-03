@@ -14,7 +14,7 @@ En primera instancia creamos las tablas de verdad correspondientes y la estructu
 ## DISEÑO HDL
 ---
 ## RTL
-![RTL]()
+![RTL](RTL7seg.png)
 ---
 ## SIMULACIÓN
 ---
