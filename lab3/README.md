@@ -16,8 +16,11 @@ En primera instancia creamos las tablas de verdad correspondientes y la estructu
 ## RTL
 <details>
   <summary>📸 Imagen RTL</summary>
+  
   <br>
+  
   ![RTL](RTL7seg.png)
+
 </details>
 
 ---
