@@ -15,7 +15,7 @@ En primera instancia creamos las tablas de verdad correspondientes y la estructu
 ---
 ## RTL
 <details>
-  <summary>📸 Haz clic aquí para ver las imágenes del proyecto</summary>
+  <summary>📸 Imagen RTL</summary>
   
   <br>
   
