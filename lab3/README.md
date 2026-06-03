@@ -5,15 +5,15 @@ En primera instancia creamos las tablas de verdad correspondientes y la estructu
 
 ## 1.  COMPORTAMIENTO
 - **DIAGRAMA DE FLUJO**
-### - TABLAS DE VERDAD
+- **TABLAS DE VERDAD**
 ---
 ## ESTRUCTURA
-### DIAGRAMA DE BLOQUES 
-### REDES DE COMPUERTAS
+- **DIAGRAMA DE BLOQUES**
+- **REDES DE COMPUERTAS**
 ---
 ## DISEÑO HDL
 ---
 ## SIMULACIÓN
 ---
 ## IMPLEMENTACIÓN 
-### PLACE AND ROUTE
+- **PLACE AND ROUTE**
