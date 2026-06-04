@@ -18,7 +18,7 @@ En primera instancia creamos las tablas de verdad correspondientes y la estructu
     
 
 ---
-## ESTRUCTURA
+## 2. ESTRUCTURA
 - **DIAGRAMA DE BLOQUES**
 - **REDES DE COMPUERTAS**
     <details>
@@ -31,7 +31,7 @@ En primera instancia creamos las tablas de verdad correspondientes y la estructu
     </details>
 
 ---
-## DISEÑO HDL
+## 3. DISEÑO HDL
 ---
 ## RTL
 <details>
@@ -44,7 +44,7 @@ En primera instancia creamos las tablas de verdad correspondientes y la estructu
 </details>
 
 ---
-## SIMULACIÓN
+## 4. SIMULACIÓN
 ---
-## IMPLEMENTACIÓN 
+## 5. IMPLEMENTACIÓN 
 - **PLACE AND ROUTE**
