@@ -13,12 +13,12 @@ En primera instancia creamos las tablas de verdad correspondientes y la estructu
 - **DIAGRAMA DE BLOQUES**
 - **REDES DE COMPUERTAS**
     <details>
-      <summary>📸 Circuito lógica de salida</summary>
-      
-      <br>
-      
-      ![logica_sal](7_seg_salida.png)
-    
+    <summary>📸 Circuito lógica de salida</summary>
+          
+  <br>
+          
+  ![logica_sal](7_seg_salida.png)
+        
     </details>
 
 ---
