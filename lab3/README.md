@@ -6,6 +6,14 @@ En primera instancia creamos las tablas de verdad correspondientes y la estructu
 ## 1.  COMPORTAMIENTO
 - **DIAGRAMA DE FLUJO**
 - **TABLAS DE VERDAD**
+    <details>
+  <summary>📸 Imagen RTL</summary>
+  
+  <br>
+  
+  ![RTL](logica_salida_contador7seg.dig)
+
+</details>
 ---
 ## ESTRUCTURA
 - **DIAGRAMA DE BLOQUES**
