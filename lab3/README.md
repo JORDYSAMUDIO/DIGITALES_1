@@ -70,7 +70,7 @@ En primera instancia creamos las tablas de verdad correspondientes y la estructu
   
   <br>
   
-  ![](Diag_flujo_lab3.png)
+  ![](GTKWave_lab3.png)
 
   </details>
     
