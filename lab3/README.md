@@ -12,7 +12,7 @@ En primera instancia creamos las tablas de verdad correspondientes y la estructu
   
      <br>
   
-     ![RTL](TablaVer_lab3.png)
+     ![](TablaVer_lab3.png)
 
     </details>
     
