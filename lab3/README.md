@@ -11,7 +11,7 @@ En primera instancia creamos las tablas de verdad correspondientes y la estructu
   
   <br>
   
-  ![RTL](logica_salida_contador7seg.dig)
+  ![logica_sal](logica_salida_contador7seg.dig)
 
 </details>
 
