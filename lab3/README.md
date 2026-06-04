@@ -36,7 +36,7 @@ En primera instancia creamos las tablas de verdad correspondientes y la estructu
   
      <br>
   
-     ![](Diagr_bloq_lab3.png)
+     ![](Diag_bloq_lab3.png)
 
     </details>
     
