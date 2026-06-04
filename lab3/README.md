@@ -31,6 +31,15 @@ En primera instancia creamos las tablas de verdad correspondientes y la estructu
 ---
 ## 2. ESTRUCTURA
 - **DIAGRAMA DE BLOQUES**
+    <details>
+     <summary>📸 Diagrama de Bloques</summary>
+  
+     <br>
+  
+     ![](Diag_flujo_lab3.png)
+
+    </details>
+    
 - **REDES DE COMPUERTAS**
     <details>
     <summary>📸 Circuito lógica de salida</summary>
