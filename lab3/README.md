@@ -8,7 +8,7 @@ En primera instancia creamos las tablas de verdad correspondientes y la estructu
 - **TABLAS DE VERDAD**
     
     <details>
-     <summary>📸 Imagen RTL</summary>
+     <summary>📸 Tabla de verdad unidades</summary>
   
      <br>
   
