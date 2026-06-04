@@ -14,6 +14,7 @@ En primera instancia creamos las tablas de verdad correspondientes y la estructu
   ![RTL](logica_salida_contador7seg.dig)
 
 </details>
+
 ---
 ## ESTRUCTURA
 - **DIAGRAMA DE BLOQUES**
