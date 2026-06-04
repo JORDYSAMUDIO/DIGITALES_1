@@ -12,14 +12,14 @@ En primera instancia creamos las tablas de verdad correspondientes y la estructu
 ## ESTRUCTURA
 - **DIAGRAMA DE BLOQUES**
 - **REDES DE COMPUERTAS**
-<details>
-  <summary>📸 Circuito lógica de salida</summary>
-  
-  <br>
-  
-  ![logica_sal](7_seg_salida.png)
-
-</details>
+    <details>
+      <summary>📸 Circuito lógica de salida</summary>
+      
+      <br>
+      
+      ![logica_sal](7_seg_salida.png)
+    
+    </details>
 
 ---
 ## DISEÑO HDL
