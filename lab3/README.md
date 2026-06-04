@@ -5,6 +5,16 @@ En primera instancia creamos las tablas de verdad correspondientes y la estructu
 
 ## 1.  COMPORTAMIENTO
 - **DIAGRAMA DE FLUJO**
+      <details>
+     <summary>📸 Diagrama de flujo</summary>
+  
+     <br>
+  
+     ![](Diag_flujo_lab3.png)
+
+    </details>
+    
+
 - **TABLAS DE VERDAD**
     
     <details>
