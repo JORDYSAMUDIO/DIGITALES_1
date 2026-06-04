@@ -20,6 +20,7 @@ En primera instancia creamos las tablas de verdad correspondientes y la estructu
   ![logica_sal](7_seg_salida.png)
 
 </details>
+
 ---
 ## DISEÑO HDL
 ---
