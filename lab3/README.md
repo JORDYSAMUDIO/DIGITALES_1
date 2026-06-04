@@ -7,11 +7,11 @@ En primera instancia creamos las tablas de verdad correspondientes y la estructu
 - **DIAGRAMA DE FLUJO**
 - **TABLAS DE VERDAD**
     <details>
-  <summary>📸 Imagen RTL</summary>
+  <summary>📸 Circuito lógica de salida</summary>
   
   <br>
   
-  ![logica_sal](logica_salida_contador7seg.png)
+  ![logica_sal](7_seg_salida.png)
 
 </details>
 
