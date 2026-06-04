@@ -65,6 +65,15 @@ En primera instancia creamos las tablas de verdad correspondientes y la estructu
 
 ---
 ## 4. SIMULACIÓN
+  <details>
+  <summary>📸 Diagrama de flujo</summary>
+  
+  <br>
+  
+  ![](Diag_flujo_lab3.png)
+
+  </details>
+    
 ---
 ## 5. IMPLEMENTACIÓN 
 - **PLACE AND ROUTE**
