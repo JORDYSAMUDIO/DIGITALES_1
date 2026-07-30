@@ -16,5 +16,5 @@ para la comunicación I2C con el sensor.
 ## Diagrama de caja negra
 ![alt text](CN.png)
 
-## Diagrama de flujo geeral
+## Diagrama de flujo general
 ![alt text](flujo.png)
