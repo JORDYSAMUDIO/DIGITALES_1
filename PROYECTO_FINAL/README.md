@@ -13,5 +13,5 @@ para la comunicación I2C con el sensor.
 ## Circuito RTL
 ![alt text](rtl.png)
 
-##Diagrama de caja negra
+## Diagrama de caja negra
 ![alt text](CN.png)
