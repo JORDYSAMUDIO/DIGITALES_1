@@ -9,3 +9,6 @@ para la comunicación I2C con el sensor.
 
 ## Simulación
 ![alt text](simu.png)
+
+## Circuito RTL
+![alt text](rtl.png)
