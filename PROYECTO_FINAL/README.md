@@ -17,4 +17,4 @@ para la comunicación I2C con el sensor.
 ![alt text](CN.png)
 
 ## Diagrama de flujo general
-![alt text](flujo.png)
+![alt text](fujo.png)
